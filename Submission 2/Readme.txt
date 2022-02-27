@@ -16,7 +16,7 @@ Group Number:
 2
 
 Group Members:
-16101298 Mashruk Mohammed Wasik
+16101298 Mashruk Mohammed Wasik Ataher
 18101162 Syeda Rifa Syara
 18101389 Abir Alam Srabon   
 18101424 Pranto Dev   
