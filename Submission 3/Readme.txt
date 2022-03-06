@@ -1,6 +1,7 @@
 
 Link to unlisted youtube video:
 https://youtu.be/tbOJpCUS00s 
+<video src='https://youtu.be/tbOJpCUS00s' width=180/>
 
 
 Two public link to the Concept Map (anyone on the internet can view without login):
