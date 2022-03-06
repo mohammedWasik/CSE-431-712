@@ -4,9 +4,10 @@ Link to unlisted youtube video:
 
 Two public link to the Concept Map (anyone on the internet can view without login):
 
-PDF:  https://github.com/mohammedWasik/CSE-431-712/blob/main/Submission%203/concept%20Map_group2.pdf 
-Native/original format: https://drive.google.com/file/d/1hLqUaVGQys95XAqPLn8Vvp8c-czfpVIi/view?usp=sharing 
-
+PDF:
+https://github.com/mohammedWasik/CSE-431-712/blob/main/Submission%203/concept%20Map_group2.pdf 
+Native/original format: 
+https://drive.google.com/file/d/1hLqUaVGQys95XAqPLn8Vvp8c-czfpVIi/view?usp=sharing
 
 Name, Author, Edition, year and publisher of the Book:
 Speech and Language Processing (3rd ed. draft)
