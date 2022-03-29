@@ -1,9 +1,11 @@
 completed youtube video:
-http://youtube....
+https://www.youtube.com/watch?v=o9-ObGgfpEk&ab_channel=IBMTechnology
+https://www.youtube.com/watch?v=fLvJ8VdHLA0&ab_channel=IBMTechnology
+https://www.youtube.com/watch?v=MeLm4tlVe6k&ab_channel=JohnSnowLabs
+
 
 completed book:
 
-did something else-
 
 Paper read-
 1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7695525/pdf/formative_v4i11e17065.pdf?fbclid=IwAR1kk0694ERVW9D7_SuAcKH_Rhw4kybetPZOrjgyMJGmL0ocOQRM2QrV9lw 
