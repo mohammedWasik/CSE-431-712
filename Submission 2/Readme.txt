@@ -10,8 +10,8 @@ Paper title:
 Handling Compounding in Mobile Keyboard Input
 
 Link to the paper:
-https://arxiv.org/pdf/2201.06469.pdf 
- 
+https://www.researchgate.net/publication/357925811_Handling_Compounding_in_Mobile_Keyboard_Input
+
 Group Number:
 2
 
