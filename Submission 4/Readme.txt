@@ -7,7 +7,7 @@ Paper title:
 A comparative study of Chatbot catered towards Mental Health 
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+http://slides.google.com/https://docs.google.com/presentation/d/1t0dybKaEg66-nv2_VbL-43rcFh9WSwhJ4zrwoY6yqGU/edit?usp=sharing 
 
 Paper submission date (to workshop/conference):
 May 5, 2022
